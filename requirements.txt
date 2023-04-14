@@ -2,3 +2,7 @@ streamlit
 
 nltk
 
+scikit-learn
+
+
+
